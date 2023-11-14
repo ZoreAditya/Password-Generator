@@ -1,6 +1,8 @@
 # Password-Generator
 
 This is a simple password generator created using React. It allows you to generate strong, random passwords of a specified length and with optional requirements such as including numbers, symbols, and uppercase/lowercase letters.
+# Demo
+A live demo of this project is available at https://zoreaditya.github.io/Password-Generator/
 
 # Features
 Generates a random password based on user-defined criteria:
